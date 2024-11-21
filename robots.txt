@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://williamwoods8623.github.io/williamwoods8623_github_io_zp528_10.txt
+Sitemap: https://williamwoods8623.github.io/williamwoods8623_github_io_zp528_15.txt
+Sitemap: https://williamwoods8623.github.io/williamwoods8623_github_io_zp528_2.txt
+Sitemap: https://williamwoods8623.github.io/williamwoods8623_github_io_zp528_24.txt
+Sitemap: https://williamwoods8623.github.io/williamwoods8623_github_io_zp528_3.txt
+Sitemap: https://williamwoods8623.github.io/williamwoods8623_github_io_zp528_8.txt
